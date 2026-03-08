@@ -1,0 +1,7 @@
+streamlit
+numpy
+gdown
+sentence-transformers
+matplotlib
+openai
+pandas

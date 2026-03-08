@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/bhbor/OneDrive%20-%20UW/%E5%92%AA%E5%92%AA/LLM/Mini%20Project/P2/mlruns/0/51367ac75bad44ebaac5ad7bd4f5bf7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51367ac75bad44ebaac5ad7bd4f5bf7f
+run_name: rogue-finch-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770619452149
+status: 1
+tags: []
+user_id: bhbor
