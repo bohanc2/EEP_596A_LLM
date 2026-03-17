@@ -7,7 +7,8 @@ from dotenv import load_dotenv, find_dotenv
 st.title("Mini Project 2: Streamlit Chatbot")
 
 # TODO: Replace with your actual OpenAI API key
-client = OpenAI(api_key='OPENAI_API_KEY')
+# client = OpenAI(api_key='OPENAI_API_KEY')
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Define a function to get the conversation history (Not required for Part-2, will be useful in Part-3)
 def get_conversation() -> str:
