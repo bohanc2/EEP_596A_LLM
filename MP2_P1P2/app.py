@@ -213,7 +213,7 @@ class Head_Agent:
 
 # ----- Streamlit UI -----
 
-st.title("Mini Project 2: Streamlit Chatbot (Part-3 Multi-Agent)")
+st.title("Mini Project 2: Streamlit Chatbot")
 
 
 @st.cache_resource
